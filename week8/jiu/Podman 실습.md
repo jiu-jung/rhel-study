@@ -100,7 +100,7 @@ Container:80
 curl localhost:8080
 ```
 
-![](./1.png)
+![](./source/1.png)
 
 ---
 
@@ -125,7 +125,7 @@ podman run -d \
   nginx
 ```
 
-![](./2.png)
+![](./source/2.png)
 
 ## 구조
 
